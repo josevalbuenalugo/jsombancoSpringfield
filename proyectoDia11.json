@@ -1,1 +1,13 @@
-
+{
+    "banco": "Banco de Springfield",
+    "ubicación": "Springfield, IL",
+    "cliente": "Homero J. Simpson",
+    "nro_cuenta": "1234567890",
+    "montos": {
+      "USD": 1250.75,
+      "EUR": 1134.20
+    },
+    "CBU": "2850590940090418135201",
+    "fecha_apertura": "2015-06-23"
+  }
+  
